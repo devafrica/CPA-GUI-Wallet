@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CryptoPayAfrica
+GenericName=CPACoin
+Name[uk]=CPACoin
+Name[ru]=CPACoin
+Name[pl]=CPACoin
+Name[be]=CPACoin
+Name[de]=CPACoin
+Name[es]=CPACoin
+Comment=CryptoPayAfrica GUI wallet
+Comment[uk]=CryptoPayAfrica GUI wallet
+Comment[ru]=CryptoPayAfrica GUI wallet
+Comment[pl]=CryptoPayAfrica GUI wallet
+Comment[be]=CryptoPayAfrica GUI wallet
+Comment[de]=CryptoPayAfrica GUI wallet
+Comment[es]=CryptoPayAfrica GUI wallet
+Exec=CryptoPayAfrica %U
+Terminal=false
+Type=Application
+Icon=cpacoin
+MimeType=x-scheme-handler/cpacoin;
+Categories=Office;Finance;
+Version=2.0.0
