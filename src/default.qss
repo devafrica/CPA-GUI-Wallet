@@ -294,7 +294,7 @@ QStatusBar#statusBar {
 }
 
 #m_accountFrame #totalBalance {
-	color: #0052AE;
+	color: #ffffff;
 }
 
 #m_accountFrame #addressStatusLabel {
